@@ -21,6 +21,6 @@ pnpm create astro@latest --template IZRINO/astro-vue-template
 - tauri-vue: 一个基于master分支但是添加了`tauri`的分支.
   
   tauri-vue: A branch based on the master branch with the addition of `tauri`.
-- tauri-shadcn-vue:一个基于shadcn-vue分支但是添加了tauri的分支.
+- tauri-shadcn-vue:一个基于`shadcn-vue`分支但是添加了`tauri`的分支.
   
-  tauri-shadcn-vue: A branch based on shadcn-vue with added Tauri integration.
+  tauri-shadcn-vue: A branch based on `shadcn-vue` with added `Tauri` integration.
