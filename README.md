@@ -1,11 +1,19 @@
 # Astro + Vue Example
+这是一个Astro + Vue的初始模板
 
+This is an initial template for Astro + Vue
+
+使用此模板的方式:
+
+Using this template:
 ```sh
-npm create astro@latest -- --template framework-vue
+pnpm create astro@latest --template IZRINO/astro-vue-template
+npm create astro@latest -- --template IZRINO/astro-vue-template
+yarn create astro --template IZRINO/astro-vue-template
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/framework-vue)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/framework-vue)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/framework-vue/devcontainer.json)
+# Branches
+- master:主分支 包含一个Astro官方的Astro+Vue示例，所有其他分支的更改基于此分支
+    
+    master: The master branch contains an official Astro+Vue example from Astro, and all changes in other branches are based on this branch.
 
-This example showcases Astro working with [Vue](https://v3.vuejs.org/).
