@@ -18,9 +18,9 @@ pnpm create astro@latest --template IZRINO/astro-vue-template
 - shadcn-vue: 一个基于master分支但是添加了 `TailwindCSS` 和 `shadcn-vue`的分支.
     
     shadcn-vue: A branch based on the master branch, incorporating `TailwindCSS` and `shadcn-vue`.
-- tauri-vue: 一个基于master分支但是添加了`tauri`的分支.
-  
-  tauri-vue: A branch based on the master branch with the addition of `tauri`.
-- tauri-shadcn-vue:一个基于`shadcn-vue`分支但是添加了`tauri`的分支.
-  
-  tauri-shadcn-vue: A branch based on `shadcn-vue` with added `Tauri` integration.
+
+- daisyUI-vue: 一个基于master分支但是添加了 `TailwindCSS` 和 `daisyUI`的分支. daisyUI在更新时使用的是5-beta版
+    
+    daisyUI-vue: A branch based on the master branch but with `TailwindCSS` and `daisyUI` added. daisyUI uses version 5-beta for updates.
+
+
